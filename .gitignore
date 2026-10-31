@@ -1,0 +1,23 @@
+
+# Android Studio / IntelliJ
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+.DS_Store
+
+# Generated build files
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing files
+*.jks
+*.keystore
+
+# Sensitive environment files
+.env
+.env.*
