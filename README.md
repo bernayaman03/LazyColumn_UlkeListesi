@@ -6,9 +6,9 @@ The application displays information about 10 countries in a scrollable list, in
 
 ## Features
 
-- Displays 10 countries using `LazyColumn`.
-- Presents country information in `Card` components.
-- Uses `Row` and `Column` for UI layout.
+- Displays 10 countries using LazyColumn.
+- Presents country information in Card components.
+- Uses Row and Column for UI layout.
 - Displays country flags from local drawable resources.
 - Provides a scrollable interface for browsing country information.
 
